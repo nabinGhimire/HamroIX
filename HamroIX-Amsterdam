@@ -1,0 +1,18 @@
+Welcome To Hamro Internet eXchange Amsterdam or simply HamroIX-Amsterdam
+
+You can join the IX via ZeroTier by using the following commands:
+
+curl -s https://install.zerotier.com | bash
+zerotier-cli join 0cccb752f728ea03
+zerotier-cli set 0cccb752f728ea03 allowGlobal=true
+
+And you are in! Now you need to inform any of the managers here with your ASN to get the session ready for you.
+It may take a few hours for us to approve and get the session read for you.
+
+Routeserver Details:
+RS1 IPv6: 2a0e:b107:f21::1
+ASN: 141703
+
+There is a really good benefit of using Zerotier is that you are directly connected to peers as well.
+So instead of a normal tunnel where it will be you -> server -> peer, it is directly from you to the peer, 
+which reduces latency greatly and is perfect for transit.
