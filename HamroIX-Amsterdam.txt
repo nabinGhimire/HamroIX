@@ -6,7 +6,7 @@ curl -s https://install.zerotier.com | bash
 zerotier-cli join 0cccb752f728ea03
 zerotier-cli set 0cccb752f728ea03 allowGlobal=true
 
-And you are in! Now you need to inform any of the managers here with your ASN to get the session ready for you.
+And you are in! Now you need to inform any of the managers at https://t.me/HamroIX with your ASN and your Zerotier ID to get the session ready for you.
 It may take a few hours for us to approve and get the session read for you.
 
 Routeserver Details:
