@@ -10,6 +10,7 @@ And you are in! Now you need to inform any of the managers at https://t.me/Hamro
 It may take a few hours for us to approve and get the session read for you.
 
 Routeserver Details:
+RS IPv4: 104.167.214.133
 RS IPv6: 2a0e:b107:f21::1
 ASN: 141703
 
